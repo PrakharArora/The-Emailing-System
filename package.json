@@ -1,0 +1,20 @@
+{
+  "name": "the-emailing-system",
+  "version": "1.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prakhar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "handlebars": "^4.7.7",
+    "i": "^0.3.7",
+    "nodemailer": "^6.7.5",
+    "nodemailer-mailgun-transport": "^2.1.4",
+    "nodemon": "^2.0.16",
+    "npm": "^8.11.0"
+  }
+}
